@@ -1,0 +1,8 @@
+.footcontainer{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+.Item1c{
+    list-style: none;
+}
